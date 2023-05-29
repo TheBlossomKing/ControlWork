@@ -1,0 +1,5 @@
+D:\VSC++\ControlWork24\x64\Debug\ControlWork24.vcxproj.AssemblyReference.cache
+D:\VSC++\ControlWork24\x64\Debug\ControlWork24.vcxproj.SuggestedBindingRedirects.cache
+D:\VSC++\ControlWork24\x64\Debug\ControlWork24.exe
+D:\VSC++\ControlWork24\x64\Debug\ControlWork24.MyForm.resources
+D:\VSC++\ControlWork24\x64\Debug\ControlWork24.vcxproj.GenerateResource.cache
